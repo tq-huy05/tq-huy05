@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Quang Huy 👋
+I'm a third-year Computer Science student.
+I'm interested in Deep Learning research and aim to pursue a Ph.D. in the future,
+with a particular interest in understanding human behavior and developing AI systems
+that can perceive and interact with humans.
 
-<!--
-**tq-huy05/tq-huy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Programming Languages & Tools:** Python, C++, SQL, Git/GitHub  
+**Frameworks & Libraries:** PyTorch, TorchVision, OpenCV, NumPy, Pandas, Scikit-learn  
+**Deep Learning & Algorithms:** CNNs (ResNet, ConvNeXt), Vision Transformers, Linear/Logistic Regression, K-Means, KNN, Decision Trees
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+
+- LinkedIn: [linkedin.com/in/huytq05](https://www.linkedin.com/in/huytq05/)
+- Email: [tqhuy8125@gmail.com](mailto:tqhuy8125@gmail.com)
